@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend-task-wasserstoff/static/css/main.073c9b0a.css",
+    "main.js": "/frontend-task-wasserstoff/static/js/main.c2f6bd15.js",
+    "index.html": "/frontend-task-wasserstoff/index.html",
+    "main.073c9b0a.css.map": "/frontend-task-wasserstoff/static/css/main.073c9b0a.css.map",
+    "main.c2f6bd15.js.map": "/frontend-task-wasserstoff/static/js/main.c2f6bd15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c2f6bd15.js"
+  ]
+}
